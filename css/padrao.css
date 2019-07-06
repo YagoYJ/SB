@@ -1,0 +1,106 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/*  CABEÇALHO  */
+
+#divCabecalho {
+    width: 100%;
+    background-image: linear-gradient(#0c2c31, #1d535b);
+    float: left;
+}
+
+#divCabecalho header nav {
+    width: 100%;
+}
+
+#divCabecalho header nav img {
+    width: 8%;
+    margin: 1% auto 1% 1%;
+    float: left;
+}
+
+#divCabecalho header nav img {
+    cursor: pointer;
+}
+
+#divCabecalho header nav ul {
+    width: 60%;
+    list-style: none;
+    margin-top: 1%;
+    float: right;
+}
+
+#divCabecalho header nav ul li {
+    font-size: 25pt;
+    text-align: center;
+    padding-bottom: 2%;
+    float: left;
+}
+
+#divCabecalho header nav ul #liInicio {
+    width: 20%;
+    margin-left: 20%;
+}
+
+#divCabecalho header nav ul #liBrownies {
+    width: 22%;
+    margin-left: -1%;
+}
+
+#divCabecalho header nav ul #liQuemSomos {
+    width: 30%;
+    margin-left: -1%;
+}
+
+#divCabecalho header nav ul li a {
+    width: 100%;
+    color: white;
+    padding: 0 10% 7% 10%;
+}
+
+#divCabecalho header nav ul li a:hover {
+    color: #d1ad7a;
+    border-bottom: 3px solid #d1ad7a;
+    cursor: pointer;
+    transition: .3s;
+}
+
+
+/* RODAPÉ */
+
+#divRodape {
+    width: 100%;
+    height: 130px;
+    background-image: linear-gradient(#1d535b, #0c2c31);
+    float: left;
+}
+
+#divRodape footer {
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
+
+#divRodape footer i {
+    font-size: 30pt;
+    margin: 2% 1% 2% 1%;
+}
+
+#divRodape footer i:hover {
+    color: #d1ad7a;
+    font-size: 35pt;
+    cursor: pointer;
+    transition: .3s;
+}
+
+#divRodape footer p {
+    margin-bottom: 1%;
+}

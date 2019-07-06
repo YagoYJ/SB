@@ -1,0 +1,46 @@
+#divCorpo {
+    width: 100%;
+    float: left;
+}
+
+#divCorpo h2 {
+    width: 30%;
+    color: #d1ad7a;
+    text-align: center;
+    font-size: 30pt;
+    border-bottom: 1px solid #d1ad7a;
+    margin: 2% auto 2% auto;
+}
+
+#divCorpo #divFotosMaisVendidos {
+    width: 96%;
+    text-align: center;
+    margin: 0 auto 2% 4%;
+    float: left;
+}
+
+#divCorpo #divFotosMaisVendidos img {
+    width: 390px;
+    height: 250px;
+    border: 1px solid black;
+    margin: 0 1%;
+    float: left;
+}
+
+#divCorpo #divFotosMaisVendidos a #btnVerMais {
+    width: 20%;
+    font-size: 20pt;
+    color: #fff;
+    background-color: #d1ad7a;
+    border: 1px solid #0c2c31;
+    border-radius: 8px;
+    margin: 2% auto;
+    padding: .5% 1%;
+    text-align: center;
+}
+
+
+#divCorpo #divFotosMaisVendidos a #btnVerMais:hover {
+    background: #b98030;
+    cursor: pointer;
+}
