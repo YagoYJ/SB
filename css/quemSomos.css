@@ -1,0 +1,40 @@
+#divCorpo {
+    width: 100%;
+    float: left;
+}
+
+#divCorpo #divTexto, #divCorpo .textoLateral {
+    width: 100%;
+    text-align: justify;
+    font: normal 20pt courrier;
+    margin: 2% auto;
+    float: left;
+}
+
+#divCorpo #divTexto img {
+    width: 50%;
+    margin: 2% auto 2% 24%;
+}
+
+#divCorpo #lateral1 p {
+    width: 55%;
+    margin: 1% 2% 1% 1%;
+    float: left;
+}
+
+#divCorpo #lateral1 img {
+    width: 40%;
+    margin-right: 2%;
+    float: right;
+}
+
+#divCorpo #lateral2 p {
+    width: 55%;
+    float: right;
+}
+
+#divCorpo #lateral2 img {
+    width: 40%;
+    margin: 1% 2% 1% 1%;
+    float: left;
+}

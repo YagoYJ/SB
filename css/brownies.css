@@ -5,19 +5,36 @@
 }
 
 #divCorpo h1{
-    width: 50%;
+    width: 100%;
     color: #d1ad7a;
     text-align: center;
     font-size: 30pt;
-    border-bottom: 1px solid #d1ad7a;
+    font-family: 'Patrick Hand', cursive;
+    background-image: linear-gradient(#0c2c31, #1d535b);
+    border-bottom: 5px solid #d1ad7a;
     margin: 2% auto 2% auto;
+    padding: 2% 0;
 }
 
 #divCorpo .produto {
     width: 30%;
-    margin: 0 auto 2% 2%;
+    margin: 1% auto 2% 2.6%;
     float: left;
 }
+
+#divCorpo .produto:hover {
+    cursor: pointer;
+    overflow: hidden;
+    box-shadow: 4px 0 3px rgba(0,0,0,.5);
+    transition: all .3s;
+}
+
+#divCorpo .produto img {
+    width: 100%;
+    margin-bottom: -1%;
+}
+
+
 
 #divCorpo .produto h2 {
     width: 100%;

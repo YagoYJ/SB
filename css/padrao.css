@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette|Dancing+Script|Lobster|Patrick+Hand|Satisfy|Sniglet&display=swap');
+
 * {
     padding: 0;
     margin: 0;
@@ -96,7 +98,7 @@ a {
 
 #divRodape footer i:hover {
     color: #d1ad7a;
-    font-size: 35pt;
+    transform: scale(1.3);
     cursor: pointer;
     transition: .3s;
 }

@@ -30,66 +30,43 @@
 
             <div class="produto" id="prod1">
                 <a>
-                    <h2>foto 1</h2>
+                    <img src="img/prod1.jpg" alt="Produto">
                     <p>Nome do produto <span>R$ 5,00</span></p>
                 </a>
             </div>
-            <div class="produto" id="prod1">
-                <h2>foto 2</h2>
+            <div class="produto" id="prod2">
+                <img src="img/prod2.jpg" alt="Produto">
                 <p>Nome do produto <span>R$ 5,00</span></p>
             </div>
-            <div class="produto" id="prod1">
-                <h2>foto 3</h2>
+            <div class="produto" id="prod3">
+                <img src="img/prod3.jpg" alt="Produto">
                 <p>Nome do produto <span>R$ 5,00</span></p>
             </div>
-            <div class="produto" id="prod1">
-                <h2>foto 4</h2>
+            <div class="produto" id="prod4">
+                <img src="img/prod4.jpg" alt="Produto">
                 <p>Nome do produto <span>R$ 5,00</span></p>
             </div>
-            <div class="produto" id="prod1">
-                <h2>foto 5</h2>
+            <div class="produto" id="prod5">
+                <img src="img/prod4.jpg" alt="Produto">
                 <p>Nome do produto <span>R$ 5,00</span></p>
             </div>
-            <div class="produto" id="prod1">
-                <h2>foto 6</h2>
+            <div class="produto" id="prod6">
+                <img src="img/prod4.jpg" alt="Produto">
                 <p>Nome do produto <span>R$ 5,00</span></p>
             </div>
-            <div class="produto" id="prod1">
-                <h2>foto 7</h2>
+            <div class="produto" id="prod7">
+                <img src="img/prod4.jpg" alt="Produto">
                 <p>Nome do produto <span>R$ 5,00</span></p>
             </div>
-            <div class="produto" id="prod1">
-                <h2>foto 8</h2>
+            <div class="produto" id="prod8">
+                <img src="img/prod4.jpg" alt="Produto">
                 <p>Nome do produto <span>R$ 5,00</span></p>
             </div>
-            <div class="produto" id="prod1">
-                <h2>foto 9</h2>
+            <div class="produto" id="prod9">
+                <img src="img/prod4.jpg" alt="Produto">
                 <p>Nome do produto <span>R$ 5,00</span></p>
             </div>
-            <div class="produto" id="prod1">
-                <h2>foto 10</h2>
-                <p>Nome do produto <span>R$ 5,00</span></p>
-            </div>
-            <div class="produto" id="prod1">
-                <h2>foto 11</h2>
-                <p>Nome do produto <span>R$ 5,00</span></p>
-            </div>
-            <div class="produto" id="prod1">
-                <h2>foto 12</h2>
-                <p>Nome do produto <span>R$ 5,00</span></p>
-            </div>
-            <div class="produto" id="prod1">
-                <h2>foto 13</h2>
-                <p>Nome do produto <span>R$ 5,00</span></p>
-            </div>
-            <div class="produto" id="prod1">
-                <h2>foto 14</h2>
-                <p>Nome do produto <span>R$ 5,00</span></p>
-            </div>
-            <div class="produto" id="prod1">
-                <h2>foto 15</h2>
-                <p>Nome do produto <span>R$ 5,00</span></p>
-            </div>
+
 
         </div>
 
