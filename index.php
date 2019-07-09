@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css'>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
         <link rel="stylesheet" href="css/padrao.css">
         <link rel="stylesheet" href="css/index.css">
         <title>Página inicial</title>
@@ -26,14 +26,14 @@
         </div>
 
         <div id="divCorpo">
-            <h2>MAIS VENDIDOS</h2>
+            <h1>MAIS VENDIDOS</h1>
 
             <div id="divFotosMaisVendidos">
                 <a><img src="img/prod1.jpg" alt="Produto dos mais vendidos"></a>
                 <a><img src="img/prod2.jpg" alt="Produto dos mais vendidos"></a>
                 <a><img src="img/prod3.jpg" alt="Produto dos mais vendidos"></a>
-                <a href="brownies.php"><button id="btnVerMais">Ver mais</button></a>
             </div>
+            <a href="brownies.php"><button id="btnVerMais">Ver mais</button></a>
 
 
         </div>
