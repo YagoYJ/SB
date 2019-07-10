@@ -15,19 +15,30 @@
     padding: 1% 0;
 }
 
+#divCorpo h2 {
+    width: 100%;
+    color: #d1ad7a;
+    text-align: center;
+    font-size: 30pt;
+    font-family: 'Patrick Hand', cursive;
+    margin: 2% auto -2% auto;
+    padding: 1% 0;
+}
+
 #divCorpo #divFotosMaisVendidos {
     width: 100%;
     text-align: center;
-    background: #d1ad7a;
-    border-top: 10px solid #1d535b;
-    border-bottom: 10px solid #1d535b;
+    background: #1d535b;
+    border-top: 10px solid #d1ad7a;
+    border-bottom: 10px solid #d1ad7a;
     margin: 2% 0 2% 0;
     float: left;
 }
 
 #divCorpo #divFotosMaisVendidos img {
-    width: 340px;
+    width: 330px;
     height: 260px;  
+    border: 5px solid #d1ad7a;
     margin: 2% 4%;
     float: left;
 }

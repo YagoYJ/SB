@@ -29,7 +29,7 @@
 
 
             <div id="divTexto">
-                <h1>NOSSA HISTÓRIA</h1>
+                <h1>TURMA: RAD-08</h1>
                 <img src="img/testeRet.jpg" alt="Ilustração"/>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed viverra odio ut tempor venenatis. Proin blandit nunc quis risus hendrerit consectetur. Morbi ac massa magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla congue justo dolor, nec sodales augue blandit sed. Curabitur condimentum tempor blandit. Etiam condimentum egestas velit, non egestas augue faucibus eget. Integer at felis sed enim tristique faucibus. Fusce vitae sem malesuada elit porttitor viverra.</p>
             </div>

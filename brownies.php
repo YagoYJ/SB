@@ -29,45 +29,24 @@
             <h1>OS MELHORES BROWNIES DE FORTALEZA!</h1>
 
             <div class="produto" id="prod1">
-                <a>
+                <a href="infoProd.php?cod=prod1">
                     <img src="img/prod1.jpg" alt="Produto">
-                    <p>Nome do produto <span>R$ 5,00</span></p>
+                    <p>Brigadeiro<span>R$ 5,00</span></p>
                 </a>
             </div>
             <div class="produto" id="prod2">
-                <img src="img/prod2.jpg" alt="Produto">
-                <p>Nome do produto <span>R$ 5,00</span></p>
+                <a href="infoProd.php?cod=prod2">
+                    <img src="img/prod2.jpg" alt="Produto">
+                    <p>Nutella<span>R$ 5,00</span></p>
+                </a>
             </div>
             <div class="produto" id="prod3">
-                <img src="img/prod3.jpg" alt="Produto">
-                <p>Nome do produto <span>R$ 5,00</span></p>
+                <a href="infoProd.php?cod=prod3">
+                    <img src="img/prod3.jpg" alt="Produto">
+                    <p>Tradicional<span>R$ 5,00</span></p>
+                </a>
             </div>
-            <div class="produto" id="prod4">
-                <img src="img/prod4.jpg" alt="Produto">
-                <p>Nome do produto <span>R$ 5,00</span></p>
-            </div>
-            <div class="produto" id="prod5">
-                <img src="img/prod4.jpg" alt="Produto">
-                <p>Nome do produto <span>R$ 5,00</span></p>
-            </div>
-            <div class="produto" id="prod6">
-                <img src="img/prod4.jpg" alt="Produto">
-                <p>Nome do produto <span>R$ 5,00</span></p>
-            </div>
-            <div class="produto" id="prod7">
-                <img src="img/prod4.jpg" alt="Produto">
-                <p>Nome do produto <span>R$ 5,00</span></p>
-            </div>
-            <div class="produto" id="prod8">
-                <img src="img/prod4.jpg" alt="Produto">
-                <p>Nome do produto <span>R$ 5,00</span></p>
-            </div>
-            <div class="produto" id="prod9">
-                <img src="img/prod4.jpg" alt="Produto">
-                <p>Nome do produto <span>R$ 5,00</span></p>
-            </div>
-
-
+            
         </div>
 
         <div id="divRodape">

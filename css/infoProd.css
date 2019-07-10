@@ -1,0 +1,145 @@
+#divCorpo {
+    width: 100%;
+    float: left;
+}
+
+#divCorpo #divFoto {
+    width: 45%;
+    border: 5px solid #d1ad7a;
+    margin: 2%;
+    float: left;
+}
+
+#divCorpo #divFoto h1 {
+    width: 100%;
+    color: #d1ad7a;
+    text-align: center;
+    font-size: 35pt;
+    font-family: 'Patrick Hand', cursive;
+    background-image: linear-gradient(#0c2c31, #1d535b);
+    padding: 1% 0;
+}
+
+#divCorpo #divFoto img {
+    width: 100%;
+    margin-bottom: -.7%;
+}
+
+#divCorpo #divForm {
+    width: 45%;
+    border: 2px solid #d1ad7a;
+    border-radius: 8px;
+    margin: 2%;
+    float: right;
+}
+
+#divCorpo #divForm form {
+    width: 80%;
+    text-align: left;
+    margin: 4% auto;
+}
+
+#divCorpo #divForm form h2 {
+    width: 100%;
+    color: #d1ad7a;
+    text-align: center;
+    font-size: 25pt;
+    font-family: 'Patrick Hand', cursive;
+    padding: 1% 0;
+}
+
+#divCorpo #divForm form p {
+    width: 100%;
+    color: #d1ad7a;
+    font-size: 19pt;
+    font-weight: bolder;
+    border-bottom: 1px solid #d1ad7a;
+    margin: 3% auto 1% auto;
+    text-align: left;
+}
+
+#divCorpo #divForm form .input {
+    height: 30px;
+    font-size: 13pt;
+    text-align: left;
+    border: 2px solid #cecece;
+    border-radius: 8px;
+    margin: 2% 0;
+    padding: 1% 1%;
+    outline: none;
+}
+
+#divCorpo #divForm form .input:focus {
+    border: 2px solid cornflowerblue;
+}
+
+#divCorpo #divForm form #inputNome {
+    width: 45%;
+    margin-right: 3%;
+}
+
+#divCorpo #divForm form #inputSobrenome {
+    width: 45%;
+}
+
+#divCorpo #divForm form #inputQuantidade {
+    width: 25%;
+}
+
+#divCorpo #divForm form #inputRua {
+    width: 97%;
+}
+
+#divCorpo #divForm form #inputBairro {
+    width: 70%;
+    margin-right: 3%;
+}
+
+#divCorpo #divForm form #inputNumero {
+    width: 20%;
+}
+
+#divCorpo #divForm form #inputComplemento {
+    width: 97%;
+}
+
+#divCorpo #divForm form #inputEmail {
+    width: 97%;
+}
+
+#divCorpo #divForm form #inputTelefone {
+    width: 97%;
+}
+
+#divCorpo #divForm form #inputPagamento {
+    width: 50%;
+}
+
+#divCorpo #divForm form #inputPreco {
+    width: 30%;
+    text-align: center;
+}
+
+#divCorpo #divForm form span {
+    font-size: 18pt;
+    text-align: left;
+}
+
+#divCorpo #divForm form input[type=submit] {
+    width: 100%;
+    font-size: 20pt;
+    color: #fff;
+    background-color: #d1ad7a;
+    border: 1px solid #0c2c31;
+    border-radius: 8px;
+    margin: 2% auto;
+    padding: 1% 1%;
+    text-align: center;
+}
+
+#divCorpo #divForm form input[type=submit]:hover {
+    background: #b98030;
+    transform: scale(1.1);
+    cursor: pointer;
+    transition: .3s;
+}

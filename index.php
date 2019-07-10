@@ -26,12 +26,13 @@
         </div>
 
         <div id="divCorpo">
-            <h1>MAIS VENDIDOS</h1>
+            <h1>SUPER BROWNIE</h1>
+            <h2>MAIS VENDIDOS</h2>
 
             <div id="divFotosMaisVendidos">
-                <a><img src="img/prod1.jpg" alt="Produto dos mais vendidos"></a>
-                <a><img src="img/prod2.jpg" alt="Produto dos mais vendidos"></a>
-                <a><img src="img/prod3.jpg" alt="Produto dos mais vendidos"></a>
+                <a href="infoProd.php?cod=prod1"><img src="img/prod1.jpg" alt="Produto dos mais vendidos"></a>
+                <a href="infoProd.php?cod=prod2"><img src="img/prod2.jpg" alt="Produto dos mais vendidos"></a>
+                <a href="infoProd.php?cod=prod3"><img src="img/prod3.jpg" alt="Produto dos mais vendidos"></a>
             </div>
             <a href="brownies.php"><button id="btnVerMais">Ver mais</button></a>
 
